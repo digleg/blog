@@ -29,7 +29,7 @@ On-going...
 ### leetCode 刷題筆記
 [hackmd](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A)
 
-`2020-03-15` [六腳學院 21 天英打鍛鍊武道大會](https://github.com/digleg/blog/issues/2)
+`2020-03-15` [六角學院 21 天英打鍛鍊武道大會](https://github.com/digleg/blog/issues/2)
 
 
 參考來源：
