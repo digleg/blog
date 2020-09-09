@@ -1,2 +1,33 @@
-# blog
-Frontend-related Blog is right at here
+Blog - hexo - ongoing...
+
+# 簡介
+
+### 20XX-09-25 更新
+
+# 文章列表
+
+## 依時間排序
+
+
+## 依分類排序
+
+### JavaScript
+
+### Web 相關
+
+### 前端相關
+
+### React
+`2020-09-09`  [從 React-Boilerplate 中了解目前常用的React專案架構](https://github.com/digleg/blog/issues/1)  
+
+### Mobile
+`2020-XX-XX`  Flutter 實戰經驗分享
+
+### 後端
+On-going...
+
+### leetCode 刷題筆記
+[hackmd](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A)
+
+### 其他
+
