@@ -35,7 +35,7 @@ On-going...
 
 `2020-03-15` [六角學院 21 天英打鍛鍊武道大會](https://github.com/digleg/blog/issues/2)
 
-<i class="fa fa-free-code-camp" aria-hidden="true">
+<i style="visibility: hidden">
 參考來源：
 [aszx87410大大的github blog](https://github.com/aszx87410/blog)
 </i>
