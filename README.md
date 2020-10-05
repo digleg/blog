@@ -16,7 +16,7 @@ Blog - hexo - ongoing...
 ## 依分類排序
 
 ### JavaScript
-`2020-09-20`  [綁定事件 addEventListener 與 onClick的差異](https://github.com/digleg/blog/issues/4)  
+`2020-09-20`  [[event 相關] 綁定事件 addEventListener 與 onClick的差異](https://github.com/digleg/blog/issues/4)  
 
 
 ### Web 相關
