@@ -36,7 +36,7 @@ On-going...
 
 #### Top Interview Questions
 
-`2020-10-06` [easy][26. Remove Duplicates from Sorted Array](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A?view#easy-26-Remove-Duplicates-from-Sorted-Array)
+`2020-10-06` [easy] [26. Remove Duplicates from Sorted Array](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A?view#easy-26-Remove-Duplicates-from-Sorted-Array)
 
 [hackmd](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A)
 
