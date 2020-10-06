@@ -33,6 +33,11 @@ Blog - hexo - ongoing...
 On-going...
 
 ### leetCode 刷題筆記
+
+#### Top Interview Questions
+
+`2020-10-06` [easy][26. Remove Duplicates from Sorted Array](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A?view#easy-26-Remove-Duplicates-from-Sorted-Array)
+
 [hackmd](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A)
 
 `2020-03-15` [六角學院 21 天英打鍛鍊武道大會](https://github.com/digleg/blog/issues/2)
