@@ -37,6 +37,7 @@ On-going...
 #### Top Interview Questions
 
 `2020-10-06` [easy] [26. Remove Duplicates from Sorted Array](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A?view#easy-26-Remove-Duplicates-from-Sorted-Array)
+`2020-10-18` [easy] [121. Best Time to Buy and Sell Stock](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A?both#easy-121-Best-Time-to-Buy-and-Sell-Stock)
 
 [hackmd](https://hackmd.io/CpM-UdH2TkWSaxD-fJMl3A)
 
