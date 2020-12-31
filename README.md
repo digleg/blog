@@ -8,8 +8,8 @@ Blog - hexo - ongoing...
 
 # 專案Demo
 
-`Netflix trailer website demo` https://netflix-clone-b13b0.web.app/ 以Netflix 為樣板的預告片播放網站
-(React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase)
+`Netflix trailer website demo` https://netflix-clone-b13b0.web.app/ 
+以Netflix 為樣板的預告片播放網站: React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase
 
 ### 20XX-09-25 更新
 
