@@ -8,8 +8,7 @@ Blog - hexo - ongoing...
 
 # 專案Demo
 
-## Netflix trailer website demo
-以Netflix 為樣板的預告片播放網站 https://netflix-clone-b13b0.web.app/
+`Netflix trailer website demo` 以Netflix 為樣板的預告片播放網站 https://netflix-clone-b13b0.web.app/
 
 ### 20XX-09-25 更新
 
