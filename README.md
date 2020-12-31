@@ -6,6 +6,10 @@ Blog - hexo - ongoing...
 
 開發工具：VS Code
 
+# 專案Demo
+
+## 以Netflix 為樣板的預告片播放網站 https://netflix-clone-b13b0.web.app/
+
 ### 20XX-09-25 更新
 
 # 文章列表
