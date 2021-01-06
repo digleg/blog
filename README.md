@@ -8,22 +8,20 @@ Blog - hexo - ongoing...
 
 ## 專案Demo
 
+### Twitter website demo (https://twitter-clone-b45e6.web.app/)
+```
+以Twitter 為樣板的社群網站: React, React hook, material-ui, deploy on google firebase, firebase db, BEM convention
+```
+
 ### Netflix trailer website demo (https://netflix-clone-b13b0.web.app/)
 ```
-以Netflix 為樣板的電影預告片播放網站: React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase
+以Netflix 為樣板的電影預告片播放網站: React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase, BEM convention
 ```
 
 ### Spotify website demo (https://spotify-clone-6f08c.web.app/)
 ```
-以Spotify 為樣板的音樂播放網站app: React, React hook, material-ui, spotify-web-api-js, deploy on google firebase
+以Spotify 為樣板的音樂播放網站app: React, React hook, material-ui, spotify-web-api-js, deploy on google firebase, BEM convention
 ```
-
-
-### Twitter website demo (https://twitter-clone-b45e6.web.app/)
-```
-以Twitter 為樣板的社群網站: React, React hook, material-ui, deploy on google firebase, firebase db
-```
-
 
 ### 20XX-09-25 更新
 
