@@ -51,7 +51,7 @@ VS Code
 ### 前端相關
 `2021-01-09` [Styled-component 學習筆記](https://github.com/digleg/blog/issues/8)<br>
 `2021-01-09` [Storybook 學習筆記](https://github.com/digleg/blog/issues/9)
-`2021-01-09` [CSS Specificity - CSS 準則]
+`2021-01-09` [CSS Specificity - CSS 準則, two words which took president]
 
 ### React
 `2020-09-09`  [從 React-Boilerplate 中了解目前常用的React專案架構](https://github.com/digleg/blog/issues/1)  
