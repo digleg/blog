@@ -1,5 +1,3 @@
-Blog - hexo - ongoing...
-
 # 簡介
 
 #### 中興資工所
@@ -79,4 +77,3 @@ On-going...
 
 
 參考來源： [aszx87410大大的github blog](https://github.com/aszx87410/blog)
-
