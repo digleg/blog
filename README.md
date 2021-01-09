@@ -10,6 +10,9 @@
 ## 開發工具
 VS Code
 
+## Trello Frontend Learning Schedule
+[Vito Front-end Learning Plan](https://trello.com/b/tIgOBF3j/vito-front-end-learning-plan)
+
 ## 專案Demo
 
 ### [React.js] Twitter website demo (https://twitter-clone-b45e6.web.app/)
