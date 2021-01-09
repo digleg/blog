@@ -8,7 +8,8 @@ Blog - hexo - ongoing...
 #### 努力充實自己
 #### 能漸漸有有自己一套出色且有效率的前端開發模式
 
-開發工具：VS Code
+## 開發工具
+VS Code
 
 ## 專案Demo
 
