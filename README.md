@@ -50,7 +50,7 @@ VS Code
 
 ### 前端相關
 `2021-01-09` [Styled-component 學習筆記](https://github.com/digleg/blog/issues/8)<br>
-`2021-01-09` [Storybook 學習筆記](https://github.com/digleg/blog/issues/9)
+`2021-01-09` [Storybook 學習筆記](https://github.com/digleg/blog/issues/9)<br>
 `2021-01-09` [CSS Specificity - CSS 準則, two words which took president](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
 
 ### React
