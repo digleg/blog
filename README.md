@@ -45,7 +45,7 @@ Blog - hexo - ongoing...
 ### Web 相關
 
 ### 前端相關
-`2020-01-09` [Styled-component 學習筆記](https://github.com/digleg/blog/issues/8)
+`2020-01-09` [Styled-component 學習筆記](https://github.com/digleg/blog/issues/8)<br>
 `2020-01-09` [Storybook 學習筆記](https://github.com/digleg/blog/issues/9)
 
 ### React
