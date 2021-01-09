@@ -15,14 +15,14 @@ VS Code
 
 ## 專案Demo
 
-### [React.js] Twitter website demo (https://twitter-clone-b45e6.web.app/)
-```
-以Twitter 為樣板的社群網站: React, React hook, material-ui, deploy on google firebase, firebase db, BEM convention
-```
-
 ### [React.js] Netflix trailer website demo (https://netflix-clone-b13b0.web.app/)
 ```
 以Netflix 為樣板的電影預告片播放網站: React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase, BEM convention
+```
+
+### [React.js] Twitter website demo (https://twitter-clone-b45e6.web.app/)
+```
+以Twitter 為樣板的社群網站: React, React hook, material-ui, deploy on google firebase, firebase db, BEM convention
 ```
 
 ### [React.js] Spotify website demo (https://spotify-clone-6f08c.web.app/)
