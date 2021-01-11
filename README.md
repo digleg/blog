@@ -16,26 +16,13 @@ VS Code
 ## 專案Demo
 
 ### React.js
-
 `COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test` <br />
-`Netflix trailer`  [https://netflix-clone-b13b0.web.app/](https://netflix-clone-b13b0.web.app/)  `電影預告片播放網站: React hook, RWD, animation, Embedded Youtube, firebase, BEM convention`
-`COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test`
-`COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test`
-
-
-<h4>Netflix trailer - https://netflix-clone-b13b0.web.app/</h4>
-<p>以Netflix 為樣板的電影預告片播放網站: React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase, BEM convention</p>
-
-<h4>Twitter website - https://twitter-clone-b45e6.web.app/</h4>
-<p>以Twitter 為樣板的社群網站: React, React hook, material-ui, deploy on google firebase, firebase db, BEM convention</p>
-
-<h4>Spotify website - https://spotify-clone-6f08c.web.app/</h4>
-<p>以Spotify 為樣板的音樂播放網站app: React, React hook, material-ui, spotify-web-api-js, deploy on google firebase, BEM convention</p>
+`Netflix trailer`  [https://netflix-clone-b13b0.web.app/](https://netflix-clone-b13b0.web.app/)  `電影預告片播放網站: React hook, RWD, animation, Embedded Youtube, firebase, BEM convention`<br />
+`Twitter website`  [https://twitter-clone-b45e6.web.app/](https://twitter-clone-b45e6.web.app/)  `社群網站: React hook, material-ui, firebase, firebase db, BEM convention`<br />
+`Spotify website`  [https://spotify-clone-6f08c.web.app/](https://spotify-clone-6f08c.web.app/)  `音樂播放網站: React hook, material-ui, spotify-web-api-js, firebase, BEM convention`<br />
 
 ### Vue.js
-
-<h4>Twitter mobile - https://twitter-vue-clone.web.app/</h4>
-<p>以Twitter-mobile 為樣板的音樂播放網站app: vuejs, tailwind, deploy on google firebase, BEM convention</p>
+`Twitter mobile`  [https://twitter-vue-clone.web.app/](https://twitter-vue-clone.web.app/)  `Twitter-mobile: vuejs, tailwind, firebase, BEM convention` <br />
 
 ### 20XX-09-25 更新
 
