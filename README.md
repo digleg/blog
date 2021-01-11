@@ -15,26 +15,24 @@ VS Code
 
 ## 專案Demo
 
-### [React.js] Netflix trailer website demo (https://netflix-clone-b13b0.web.app/)
-```
-以Netflix 為樣板的電影預告片播放網站: React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase, BEM convention
-```
+### React.js
 
-### [React.js] Twitter website demo (https://twitter-clone-b45e6.web.app/)
-```
-以Twitter 為樣板的社群網站: React, React hook, material-ui, deploy on google firebase, firebase db, BEM convention
-```
+<h3>COVID-19 Tracker - https://covid-19-tracker-3c843.web.app/</h3>
+<p></p>
 
-### [React.js] Spotify website demo (https://spotify-clone-6f08c.web.app/)
-```
-以Spotify 為樣板的音樂播放網站app: React, React hook, material-ui, spotify-web-api-js, deploy on google firebase, BEM convention
-```
+<h3>Netflix trailer - https://netflix-clone-b13b0.web.app/</h3>
+<p>以Netflix 為樣板的電影預告片播放網站: React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase, BEM convention</p>
 
-### [Vue.js] Twitter mobile Vuejs demo (https://twitter-vue-clone.web.app/)
-```
-以Twitter-mobile 為樣板的音樂播放網站app: vuejs, tailwind, deploy on google firebase, BEM convention
-```
+<h3>Twitter website - https://twitter-clone-b45e6.web.app/</h3>
+<p>以Twitter 為樣板的社群網站: React, React hook, material-ui, deploy on google firebase, firebase db, BEM convention</p>
 
+<h3>Spotify website - https://spotify-clone-6f08c.web.app/</h3>
+<p>以Spotify 為樣板的音樂播放網站app: React, React hook, material-ui, spotify-web-api-js, deploy on google firebase, BEM convention</p>
+
+### Vue.js
+
+<h3>Twitter mobile - https://twitter-vue-clone.web.app/</h3>
+<p>以Twitter-mobile 為樣板的音樂播放網站app: vuejs, tailwind, deploy on google firebase, BEM convention</p>
 
 ### 20XX-09-25 更新
 
