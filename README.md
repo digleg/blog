@@ -25,7 +25,7 @@ VS Code
 `Twitter mobile`  [https://twitter-vue-clone.web.app/](https://twitter-vue-clone.web.app/)  `Twitter手機呈現: vuejs, tailwind` <br />
 
 ### Core Technique
-`BEM Convention, firebase`
+`BEM Convention, firebase, Eslint, Prettier, Flexbox, draw.io`
 
 ### 20XX-09-25 更新
 
