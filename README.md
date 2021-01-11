@@ -17,12 +17,12 @@ VS Code
 
 ### React.js
 `COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test` <br />
-`Netflix trailer`  [https://netflix-clone-b13b0.web.app/](https://netflix-clone-b13b0.web.app/)  `電影預告片播放網站: React hook, RWD, animation, Embedded Youtube, firebase, BEM convention`<br />
-`Twitter website`  [https://twitter-clone-b45e6.web.app/](https://twitter-clone-b45e6.web.app/)  `社群網站: React hook, material-ui, firebase, firebase db, BEM convention`<br />
-`Spotify website`  [https://spotify-clone-6f08c.web.app/](https://spotify-clone-6f08c.web.app/)  `音樂播放網站: React hook, material-ui, spotify-web-api-js, firebase, BEM convention`<br />
+`Netflix trailer`  [https://netflix-clone-b13b0.web.app/](https://netflix-clone-b13b0.web.app/)  `電影預告片播放網站: hook, RWD, animation, Embedded Youtube, firebase, BEM`<br />
+`Twitter website`  [https://twitter-clone-b45e6.web.app/](https://twitter-clone-b45e6.web.app/)  `社群網站: hook, material-ui, firebase, firebase db, BEM`<br />
+`Spotify website`  [https://spotify-clone-6f08c.web.app/](https://spotify-clone-6f08c.web.app/)  `音樂播放網站: hook, material-ui, spotify-web-api-js, firebase, BEM`<br />
 
 ### Vue.js
-`Twitter mobile`  [https://twitter-vue-clone.web.app/](https://twitter-vue-clone.web.app/)  `Twitter-mobile: vuejs, tailwind, firebase, BEM convention` <br />
+`Twitter mobile`  [https://twitter-vue-clone.web.app/](https://twitter-vue-clone.web.app/)  `Twitter-mobile: vuejs, tailwind, firebase, BEM` <br />
 
 ### 20XX-09-25 更新
 
