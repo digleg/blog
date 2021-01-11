@@ -22,7 +22,7 @@ VS Code
 `Spotify website`  [https://spotify-clone-6f08c.web.app/](https://spotify-clone-6f08c.web.app/)  `音樂播放網站: hook, material-ui, spotify-web-api-js`<br />
 
 ### Vue.js
-`Twitter mobile`  [https://twitter-vue-clone.web.app/](https://twitter-vue-clone.web.app/)  `Twitter-mobile: vuejs, tailwind` <br />
+`Twitter mobile`  [https://twitter-vue-clone.web.app/](https://twitter-vue-clone.web.app/)  `Twitter手機呈現: vuejs, tailwind` <br />
 
 ### Core Technique
 `BEM Convention, firebase`
