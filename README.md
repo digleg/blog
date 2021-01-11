@@ -17,7 +17,7 @@ VS Code
 
 ### React.js
 
-`COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test`
+`COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test` <br />
 `Netflix trailer`  [https://netflix-clone-b13b0.web.app/](https://netflix-clone-b13b0.web.app/)  `電影預告片播放網站: React hook, RWD, animation, Embedded Youtube, firebase, BEM convention`
 `COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test`
 `COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test`
