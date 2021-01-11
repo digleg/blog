@@ -17,7 +17,7 @@ VS Code
 
 ### React.js
 
-`COVID-19 Tracker`  [link](https://covid-19-tracker-3c843.web.app/)  `test`
+`COVID-19 Tracker`  [https://covid-19-tracker-3c843.web.app/](https://covid-19-tracker-3c843.web.app/)  `test`
 
 
 <h4>Netflix trailer - https://netflix-clone-b13b0.web.app/</h4>
