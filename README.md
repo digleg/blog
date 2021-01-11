@@ -17,8 +17,8 @@ VS Code
 
 ### React.js
 
-<h4>COVID-19 Tracker - https://covid-19-tracker-3c843.web.app/</h4>
-<p></p>
+`COVID-19 Tracker`  [link](https://covid-19-tracker-3c843.web.app/)  `test`
+
 
 <h4>Netflix trailer - https://netflix-clone-b13b0.web.app/</h4>
 <p>以Netflix 為樣板的電影預告片播放網站: React, React hook, RWD, animation, Embedded Youtube, deploy on google firebase, BEM convention</p>
